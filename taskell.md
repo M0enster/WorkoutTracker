@@ -1,11 +1,12 @@
 ## To Do
 
-- Create skeleton layout
+- Create a basic layout
 
 ## Doing
 
-- Create github repository
 
 ## Done
 
 - Create basic svelte project
+- Create github repository
+- Create skeleton layout
